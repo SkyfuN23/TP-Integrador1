@@ -1,0 +1,17 @@
+.imgOrador {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.footer {
+    background-color: rgb(29, 57, 71);
+}
+
+.links {
+    font-size: 12px;
+}
+
+.disPeq {
+    height: 95vh;
+}
